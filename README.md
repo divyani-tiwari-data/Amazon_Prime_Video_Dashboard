@@ -16,7 +16,6 @@ This report provides a comprehensive view of the Prime Video streaming library, 
 
 - **Power BI Desktop:** Used as the core business intelligence platform to design interactive layouts and visual reports.
 - **Power Query:** Utilized for data cleaning, transforming raw catalog data, and handling null values or text formats.
-- **Calculated Measures:** Applied basic DAX formulas to create key metrics (Total Titles, Content Counts, Rating aggregations).
 - **Data Architecture:** Single-table catalog data model focused on clean presentation and smooth usability.
 
 ---
