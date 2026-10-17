@@ -48,10 +48,10 @@ This report provides a comprehensive view of the Prime Video streaming library, 
 
 ## How to Use
 
-1. Download the `.pbit` (Power BI Template) file and the dataset `.csv` file from this repository.
-2. Open the `.pbit` file in Microsoft Power BI Desktop.
-3. Connect the dataset source when prompted to load the interactive dashboard locally.
-4. Check out the `Snapshot of the Dashboard.png` for a quick preview of the final design!
+1. Download the `.pbix` (Power BI file) and the dataset file from this repository.
+2. Open the `.pbix` file in Microsoft Power BI Desktop.
+3. Reconnect the dataset source locally if prompted to load the interactive dashboard properly.
+4. Check out the `Snapshot of the Dashboard.png` file for a quick preview of the final design!
 
 ---
 
